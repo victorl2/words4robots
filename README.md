@@ -1,5 +1,5 @@
 # Words4Robots 
-[Words4Robots](http://words4robots.com/) is an app simplifying the realization of **natural language processing** tasks. Using a clean and concise interface you will be able to: 
+[Words4Robots](http://words4robots.com/) is simplifying the realization of **natural language processing** tasks. Using a clean and concise interface you will be able to: 
 
 + Train NLP models.
 + Customize embeddings.
